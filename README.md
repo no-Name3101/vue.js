@@ -1,2 +1,2 @@
-# vue.js
+# vueJS
 include the vue.js project
